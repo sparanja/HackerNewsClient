@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "html-webpack-plugin": "2.22.0",
-    "webpack": "1.13.2",
+    "webpack": "5.94.0",
     "workbox-build": "0.0.2"
   }
 }
